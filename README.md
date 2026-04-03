@@ -1,8 +1,12 @@
-## Hi there 👋
-I like learning languages and doing some sports also like coding.
+## About me
+I like learning languages and doing some sports, also enjoying coding. Sometimes I play chess but just for fun.
 
+---
 ## Tools
-React, TypeScript, Tailwind, GSAP, Next.js
-
+* React
+* TypeScript
+* Tailwind
+* GSAP
+* Next.js
 
 
